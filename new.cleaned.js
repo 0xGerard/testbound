@@ -99,7 +99,11 @@
     }
     function _0x19309e() {
         var _0x18d45f = 99999 * Math.random() | 0, _0x44a542 = window.Date.now(), _0x26906f = false;
-        
+        !(function () {
+            //eval('this[' + _0x18d45f++ + '] = {}; debugger');
+            _0x26906f = true;
+            ;
+        }());
         var _0xd53dc = window.Date.now() - _0x44a542;
         50 < _0xd53dc && _0x26906f && window.alertCheater();
     }
